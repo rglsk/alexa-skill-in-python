@@ -1,0 +1,5 @@
+alexa-skill==0.1.0
+gunicorn==19.9.0
+requests==2.20.1
+mock==2.0.0
+pytest==3.10.0
